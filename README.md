@@ -8,7 +8,7 @@
 - 💻 Full-Stack Developer — skilled in **React, Node.js, Python, and MongoDB**
 - 🌱 Currently exploring: **Next.js** and **AI integrations**
 - 🔭 Most recent project: [Excel-Zidio](https://github.com/Roshan-ui194/Excel-Zidio) — React + Tailwind + shadcn-ui app
-- 📫 Reach me: **jambhulkar.roshan7@gmail.com**
+- 📫 Reach me: **sroshanra07@gmail.com**
 
 ---
 
@@ -25,6 +25,9 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwindcss)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 
 ---
 
@@ -60,11 +63,13 @@
 
 ## 🌐 Connect With Me
 
-- 📧 Email: **jambhulkar.roshan7@gmail.com**
-- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-LINK-HERE) *(Add your link)*
-- 🌍 Portfolio: [https://your-portfolio-link.com](https://your-portfolio-link.com) *(Optional)*
+- 📧 Email: **sroshanra07@gmail.com**
+- 💼 [LinkedIn](https://www.linkedin.com/in/roshan-srinivasan-b74124296) *(Add your link)*
+- 🌍 Portfolio:
 
 ---
 
 *Built with ❤️ using Markdown and GitHub Stats tools.*
+
+
 
